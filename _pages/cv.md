@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of California, Los Angeles - Los Angeles, CA     	September 2016 - March 2018
+* M.S. in Computer Science, University of California, Los Angeles - Los Angeles, CA <br   /> September 2016 - March 2018
   * Advised by Professor Mario Gerla
-* B.S. in Computer Science, University of California, Los Angeles - Los Angeles, CA         July 2012 – June 2016
+* B.S. in Computer Science, University of California, Los Angeles - Los Angeles, CA <br   /> July 2012 – June 2016
 
 Work Experience
 ======
