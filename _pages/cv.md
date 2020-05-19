@@ -10,14 +10,12 @@ redirect_from:
 
 Education
 ======
-<pre>
-M.S. in Computer Science, University of California, Los Angeles          September 2016 - March 2018
+M.S. in Computer Science, University of California, Los Angeles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; September 2016 - March 2018
 * Advised by Professor Mario Gerla
-B.S. in Computer Science, University of California, Los Angeles          July 2012 – June 2016
-</pre>
+B.S. in Computer Science, University of California, Los Angeles &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2012 – June 2016
+
 Work Experience
 ======
-<pre>
 Software Engineer                                                         May 2018 – Present
 Arista Networks, Inc.  – Santa Clara, CA
 Working as a software engineer on Routing/Switching Protocol Team.
@@ -43,7 +41,7 @@ Software Engineering Intern                                               June 2
 Cymer, an ASML Company – San Diego
 Worked as a software engineering intern on EUV Software Team.
 * Implemented error/warning logging software interfaces for High Power Seed System.
-</pre>
+
 Skills
 ======
 C/C++, Python, Linux Kernel Programming, TCP/IP, MPLS, BGP
