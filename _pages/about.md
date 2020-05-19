@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-M.S. in Computer Science (Advised by Prof. Mario Gerla), University of California, Los Angeles <br/>
-*September 2016 - March 2018* <br/>
-B.S. in Computer Science, University of California, Los Angeles <br/>
+M.S. in Computer Science (Advised by Prof. Mario Gerla), **University of California, Los Angeles** <br/>
+*September 2016 - March 2018* <br/><br/>
+B.S. in Computer Science, **University of California, Los Angeles** <br/>
 *July 2012 – June 2016*
 
 Skills
@@ -19,8 +19,8 @@ C/C++, Python, Linux Kernel Programming, TCP/IP, MPLS, BGP
 Work Experience
 ======
 **Software Engineer** <br/>
-*May 2018 – Present* <br/>
 **Arista Networks, Inc. – Santa Clara, CA** <br/>
+*May 2018 – Present* <br/>
 Working as a software engineer on Routing/Switching Protocol Team.
 * EOS SDK API development for programmable router configuration.
 * Test infrastructure development regarding EOS SDK API testing.
