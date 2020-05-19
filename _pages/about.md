@@ -14,7 +14,7 @@ July 2012 – June 2016
 
 Skills
 ======
-C/C++, Python, Linux Kernel Programming, TCP/IP, MPLS, BGP
+C/C++, Python, Linux Kernel Programming, Embedded Programming, TCP/IP
 
 Work Experience
 ======
@@ -48,10 +48,6 @@ June 2014 – September 2014 <br/>
 Worked as a software engineering intern on EUV Software Team.
 * Implemented error/warning logging software interfaces for High Power Seed System.<br/>
 
-Publications
-======
-Jorge Mena, **Yuanzhi Gao** and Mario Gerla, “MPTCP path selection using CapProbe”, 2018 IEEE Wireless Communications and Networking Conference (WCNC)<br/>
-
 Research & Project Experience
 ======
 **CapProbe over MPTCP  (at UCLA Network Research Lab)** <br/>
@@ -64,3 +60,17 @@ September 2016 – June 2017 <br/>
 March 2017 – June 2017<br/>
 * Implemented a prototype of cloud assisted AR mobile application (on Android) based on ARToolKit.
 * Evaluated mobile AR performance, feasibility and potential bottlenecks.
+
+**Named Data Network Research** <br/>
+January 2015 – June 2015<br/>
+* Expand unit test coverage for NDN simulator (ndnSIM) models and applications.
+* Involved in efforts to developing and debugging routing functionalities of ndnSIM.
+
+**PlantViz (Android App)** <br/>
+January 2015 – March 2015<br/>
+* Designed and developed a plant health monitor system using Arduino Yun, photo sensors and humidity sensors.
+* An Android app PlantViz was built to monitor the stats in real time.
+
+Publications
+======
+Jorge Mena, **Yuanzhi Gao** and Mario Gerla, “MPTCP path selection using CapProbe”, 2018 IEEE Wireless Communications and Networking Conference (WCNC)<br/>
