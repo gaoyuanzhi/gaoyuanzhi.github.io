@@ -10,15 +10,14 @@ redirect_from:
 
 Education
 ======
-M.S. in Computer Science, University of California, Los Angeles &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2016 - March 2018
-* Advised by Professor Mario Gerla<br/>
-B.S. in Computer Science, University of California, Los Angeles &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 2012 – June 2016
+M.S. in Computer Science (Advised by Prof. Mario Gerla), University of California, Los Angeles &emsp;&emsp;&emsp;&emsp;&emsp; September 2016 - March 2018
+B.S. in Computer Science, University of California, Los Angeles &emsp;&emsp;&emsp;&emsp;&emsp; July 2012 – June 2016
 
 Work Experience
 ======
-Software Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2018 – Present <br/>
-Arista Networks, Inc.  – Santa Clara, CA <br/>
-Working as a software engineer on Routing/Switching Protocol Team. <br/>
+Software Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; May 2018 – Present <br/>
+Arista Networks, Inc. – Santa Clara, CA <br/>
+Working as a software engineer on Routing/Switching Protocol Team.
 * EOS SDK API development for programmable router configuration.
 * Test infrastructure development regarding EOS SDK API testing.
 * Directly contributed to Egress Peer Engineering design and implementation in EOS.
