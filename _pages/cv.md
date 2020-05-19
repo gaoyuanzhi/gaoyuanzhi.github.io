@@ -3,7 +3,7 @@ layout: archive
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /curriculum_vitae
 ---
 
 {% include base_path %}

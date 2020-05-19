@@ -1,13 +1,12 @@
 ---
 permalink: /
 author_profile: true
+title: "Education"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Education
-======
 M.S. in Computer Science, University of California, Los Angeles &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; September 2016 - March 2018
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Advised by Prof. Mario Gerla <br/>
 B.S. in Computer Science, University of California, Los Angeles &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; July 2012 – June 2016
