@@ -14,7 +14,7 @@ July 2012 – June 2016
 
 Skills
 ======
-C/C++, Python, Linux Kernel Programming, Embedded Programming, TCP/IP
+C/C++, Python, Linux Kernel Programming, Embedded Programming, TCP/IP, Android Development
 
 Work Experience
 ======
