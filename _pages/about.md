@@ -8,19 +8,55 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+M.S. in Computer Science, University of California, Los Angeles &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; September 2016 - March 2018
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Advised by Prof. Mario Gerla <br/>
+B.S. in Computer Science, University of California, Los Angeles &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; July 2012 – June 2016
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Skills
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+C/C++, Python, Linux Kernel Programming, TCP/IP, MPLS, BGP
+
+Work Experience
+======
+**Software Engineer** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2018 – Present <br/>
+**Arista Networks, Inc. – Santa Clara, CA** <br/>
+Working as a software engineer on Routing/Switching Protocol Team.
+* EOS SDK API development for programmable router configuration.
+* Test infrastructure development regarding EOS SDK API testing.
+* Directly contributed to Egress Peer Engineering design and implementation in EOS.
+* Routing protocols development, especially BGP IP/MPLS control plane.
+* Involved in efforts to migration towards new EOS command line interface.
+
+**Software Engineering Intern** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; June 2017 – September 2017<br/>
+**Arista Networks, Inc.  – Santa Clara, CA**<br/>
+Worked as a software engineering intern on Routing/Switching Protocol Team.
+* Worked on improving test scheduling tools for EOS software development.
+* Designed and implemented feature tracking tool for EOS software modules.
+
+**Software Engineering Intern** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; July 2016 – December 2016<br/>
+**Cymer, an ASML Company – San Diego**<br/>
+Worked as a software engineering intern on EUV Software Team.
+* Added improvement for error logging interfaces on High Power Seed System.
+* Increased error logging coverage for EUV source software system.
+
+**Software Engineering Intern** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; June 2014 – September 2014<br/>
+**Cymer, an ASML Company – San Diego**<br/>
+Worked as a software engineering intern on EUV Software Team.
+* Implemented error/warning logging software interfaces for High Power Seed System.<br/>
+
+Publications
+======
+Jorge Mena, **Yuanzhi Gao** and Mario Gerla, “MPTCP path selection using CapProbe”, 2018 IEEE Wireless Communications and Networking Conference (WCNC)<br/>
+
+Research & Project Experience
+======
+**CapProbe over MPTCP  (at UCLA Network Research Lab)**&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2016 – June 2017<br/>
+* Designed and implemented a Linux kernel module, CapProbe, that measures link capacities on multiple network interfaces upon MultiPath TCP (MPTCP) protocol sessions.
+* Conducted controlled/uncontrolled experiments to verify CapProbe performance and use cases of CapProbe.
+* Publication: Jorge Mena, *Yuanzhi Gao*, Mario Gerla. ‘MPTCP Path Selection using CapProbe.’ IEEE WCNC 2018.
+
+**Cloud Assisted Mobile Augmented Reality**&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp; March 2017 – June 2017<br/>
+* Implemented a prototype of cloud assisted AR mobile application (on Android) based on ARToolKit.
+* Evaluated mobile AR performance, feasibility and potential bottlenecks.
