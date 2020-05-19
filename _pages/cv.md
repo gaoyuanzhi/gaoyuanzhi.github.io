@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 M.S. in Computer Science, University of California, Los Angeles &emsp;&emsp;&emsp;&emsp;&emsp; September 2016 - March 2018
-* (Advised by Prof. Mario Gerla) <br/>
+    * (Advised by Prof. Mario Gerla) <br/>
 B.S. in Computer Science, University of California, Los Angeles &emsp;&emsp;&emsp;&emsp;&emsp; July 2012 – June 2016
 
 Skills
@@ -23,28 +23,28 @@ Work Experience
 Software Engineer &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2018 – Present <br/>
 Arista Networks, Inc. – Santa Clara, CA <br/>
 Working as a software engineer on Routing/Switching Protocol Team.
-* EOS SDK API development for programmable router configuration.
-* Test infrastructure development regarding EOS SDK API testing.
-* Directly contributed to Egress Peer Engineering design and implementation in EOS.
-* Routing protocols development, especially BGP IP/MPLS control plane.
-* Involved in efforts to migration towards new EOS command line interface.
+    * EOS SDK API development for programmable router configuration.
+    * Test infrastructure development regarding EOS SDK API testing.
+    * Directly contributed to Egress Peer Engineering design and implementation in EOS.
+    * Routing protocols development, especially BGP IP/MPLS control plane.
+    * Involved in efforts to migration towards new EOS command line interface.
 
 Software Engineering Intern &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; June 2017 – September 2017<br/>
 Arista Networks, Inc.  – Santa Clara, CA<br/>
 Worked as a software engineering intern on Routing/Switching Protocol Team.
-* Worked on improving test scheduling tools for EOS software development.
-* Designed and implemented feature tracking tool for EOS software modules.
+    * Worked on improving test scheduling tools for EOS software development.
+    * Designed and implemented feature tracking tool for EOS software modules.
 
 Software Engineering Intern &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; July 2016 – December 2016<br/>
 Cymer, an ASML Company – San Diego<br/>
 Worked as a software engineering intern on EUV Software Team.
-* Added improvement for error logging interfaces on High Power Seed System.
-* Increased error logging coverage for EUV source software system.
+    * Added improvement for error logging interfaces on High Power Seed System.
+    * Increased error logging coverage for EUV source software system.
 
 Software Engineering Intern &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; June 2014 – September 2014<br/>
 Cymer, an ASML Company – San Diego<br/>
 Worked as a software engineering intern on EUV Software Team.
-* Implemented error/warning logging software interfaces for High Power Seed System.
+    * Implemented error/warning logging software interfaces for High Power Seed System.
 
 Publications
 ======
