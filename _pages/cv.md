@@ -10,38 +10,40 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of California, Los Angeles - Los Angeles, CA <br   /> September 2016 - March 2018
-  * Advised by Professor Mario Gerla
-* B.S. in Computer Science, University of California, Los Angeles - Los Angeles, CA <br   /> July 2012 – June 2016
-
+<pre>
+M.S. in Computer Science, University of California, Los Angeles          September 2016 - March 2018
+* Advised by Professor Mario Gerla
+B.S. in Computer Science, University of California, Los Angeles          July 2012 – June 2016
+</pre>
 Work Experience
 ======
-* Software Engineer                                                                          May 2018 – Present
-  Arista Networks, Inc.  – Santa Clara, CA
-  Working as a software engineer on Routing/Switching Protocol Team.
-  * EOS SDK API development for programmable router configuration.
-  * Test infrastructure development regarding EOS SDK API testing.
-  * Directly contributed to Egress Peer Engineering design and implementation in EOS.
-  * Routing protocols development, especially BGP IP/MPLS control plane.
-  * Involved in efforts to migration towards new EOS command line interface.
+<pre>
+Software Engineer                                                         May 2018 – Present
+Arista Networks, Inc.  – Santa Clara, CA
+Working as a software engineer on Routing/Switching Protocol Team.
+* EOS SDK API development for programmable router configuration.
+* Test infrastructure development regarding EOS SDK API testing.
+* Directly contributed to Egress Peer Engineering design and implementation in EOS.
+* Routing protocols development, especially BGP IP/MPLS control plane.
+* Involved in efforts to migration towards new EOS command line interface.
 
-* Software Engineering Intern                                                                June 2017 – September 2017 
-  Arista Networks, Inc.  – Santa Clara, CA
-  Worked as a software engineering intern on Routing/Switching Protocol Team.
-  * Worked on improving test scheduling tools for EOS software development.
-  * Designed and implemented feature tracking tool for EOS software modules.
+Software Engineering Intern                                               June 2017 – September 2017 
+Arista Networks, Inc.  – Santa Clara, CA
+Worked as a software engineering intern on Routing/Switching Protocol Team.
+* Worked on improving test scheduling tools for EOS software development.
+* Designed and implemented feature tracking tool for EOS software modules.
 
-* Software Engineering Intern                                                                July 2016 – December 2016
-  Cymer, an ASML Company – San Diego
-  Worked as a software engineering intern on EUV Software Team.
-  * Added improvement for error logging interfaces on High Power Seed System.
-  * Increased error logging coverage for EUV source software system.
+Software Engineering Intern                                               July 2016 – December 2016
+Cymer, an ASML Company – San Diego
+Worked as a software engineering intern on EUV Software Team.
+* Added improvement for error logging interfaces on High Power Seed System.
+* Increased error logging coverage for EUV source software system.
 
-* Software Engineering Intern                                                                June 2014 – September 2014
-  Cymer, an ASML Company – San Diego
-  Worked as a software engineering intern on EUV Software Team.
-  * Implemented error/warning logging software interfaces for High Power Seed System.
-
+Software Engineering Intern                                               June 2014 – September 2014
+Cymer, an ASML Company – San Diego
+Worked as a software engineering intern on EUV Software Team.
+* Implemented error/warning logging software interfaces for High Power Seed System.
+</pre>
 Skills
 ======
 C/C++, Python, Linux Kernel Programming, TCP/IP, MPLS, BGP
