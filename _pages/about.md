@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About me
+======
+Hello
 
 Education
 ======
@@ -55,7 +58,7 @@ Research & Project Experience
 **CapProbe over MPTCP  (at UCLA Network Research Lab)**&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2016 – June 2017<br/>
 * Designed and implemented a Linux kernel module, CapProbe, that measures link capacities on multiple network interfaces upon MultiPath TCP (MPTCP) protocol sessions.
 * Conducted controlled/uncontrolled experiments to verify CapProbe performance and use cases of CapProbe.
-* Publication: Jorge Mena, *Yuanzhi Gao*, Mario Gerla. ‘MPTCP Path Selection using CapProbe.’ IEEE WCNC 2018.
+* Publication: Jorge Mena, **Yuanzhi Gao**, Mario Gerla. ‘MPTCP Path Selection using CapProbe.’ IEEE WCNC 2018.
 
 **Cloud Assisted Mobile Augmented Reality**&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp; March 2017 – June 2017<br/>
 * Implemented a prototype of cloud assisted AR mobile application (on Android) based on ARToolKit.

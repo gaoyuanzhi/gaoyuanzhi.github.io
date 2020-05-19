@@ -11,6 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
-======
-Jorge Mena, **Yuanzhi Gao** and Mario Gerla, “MPTCP path selection using CapProbe”, 2018 IEEE Wireless Communications and Networking Conference (WCNC)<br/>
+1. Jorge Mena, **Yuanzhi Gao** and Mario Gerla, “MPTCP path selection using CapProbe”, 2018 IEEE Wireless Communications and Networking Conference (WCNC)<br/>
